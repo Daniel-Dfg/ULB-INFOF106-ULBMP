@@ -1,4 +1,4 @@
-[I suggest to download this README to read it in a more comfortable environement than `github.com`. The following text assumes you did so].
+[I suggest you to download this README to read it in a more comfortable environement than `github.com`. The following text assumes you did so].
 
 /!\ PERFORMANCE TESTS AND MEANS OF MEASUREMENT IN `MeansOfMeasurement.md` (main branch)!
 
