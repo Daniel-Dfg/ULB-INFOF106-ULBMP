@@ -2,6 +2,8 @@
 
 /!\ PERFORMANCE TESTS AND MEANS OF MEASUREMENT IN `MeansOfMeasurement` folder (main branch)!
 
+App launch : `cd` to the appropriate folder, type `python3 main.py` / `py main.py`.
+
 Quick note before we start - you can always hide any chapter or section by clicking on the little arrow of the left of each line in your editor (works with most code editors and note-taking apps that support markdown (the vast majority of them), like [Obsidian](https://obsidian.md/), [Notion](https://www.notion.so/), [RemNote](https://www.remnote.com/), [SiYuan (the one I use)](https://b3log.org/siyuan/en/)...).  
 *<u>Any</u>* reference to this README doc within the project files can be found using the `Ctrl + F + "README"`​ command.
 
